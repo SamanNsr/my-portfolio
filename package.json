@@ -1,0 +1,39 @@
+{
+  "name": "nesari-ir",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-brands-svg-icons": "^5.14.0",
+    "@fortawesome/free-regular-svg-icons": "^5.14.0",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "@sendgrid/mail": "^7.0.1",
+    "babel-runtime": "^6.26.0",
+    "classnames": "2.2.6",
+    "date-fns": "2.10.0",
+    "gray-matter": "4.0.2",
+    "isomorphic-unfetch": "3.0.0",
+    "next": "9.3.4",
+    "next-plugin-svgr": "^0.0.6",
+    "next-react-svg": "1.1.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-spinners": "^0.9.0",
+    "react-transition-group": "^4.3.0",
+    "react-typing-animation": "^1.6.2",
+    "remark": "11.0.2",
+    "remark-html": "10.0.0"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^2.1.0",
+    "dotenv": "^8.2.0",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^1.2.0"
+  }
+}
