@@ -1,7 +1,7 @@
 import React from 'react';
 
 function SimpleBody(props) {
-  let className = 'bg-white mb-10  py-12';
+  let className = 'bg-white mb-20  py-12';
   if (props.fullScreen === true) {
     className = 'bg-white mt-20 h-screen';
   }
